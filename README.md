@@ -19,9 +19,8 @@ Funciona junto a Dobra, el sistema actual de la empresa, sin reemplazarlo.
 | Carpeta | Contenido |
 |---|---|
 | `01-levantamiento/` | Evidencias de levantamiento: notas de voz y preguntas de la entrevista 1, cuestionario de seguimiento C2 (respuestas textuales y versión consolidada) |
-| `02-metodologia/` | Evidencias de la metodología de trabajo (Scrum) e historias de usuario |
-| `03-prototipo/` | Prototipo de alta fidelidad: enlace a Figma|
-| `04-documentos/` | SRS en español e inglés y acta de conformidad firmada por el cliente |
+| `prototipo/` | Prototipo de alta fidelidad: enlace a Figma|
+| `02-documentos/` | SRS en español e inglés y acta de conformidad firmada por el cliente |
 
 ## Prototipo
 
