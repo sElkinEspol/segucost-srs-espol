@@ -3,7 +3,7 @@
 Las respuestas fueron enviadas por nota de voz (9 audios en la carpeta `audios/`).
 
 | # | Pregunta enviada | Fecha |
-|---|---|---|---|
+|---|---|---|
 | 1 | ¿Podría contarnos brevemente cómo es un día normal de trabajo desde que compran los materiales hasta que venden el producto terminado? | 17/10/2026 |
 | 2 | ¿Cuáles son los productos que más fabrican y que les generan más trabajo en la planta? ¿Hacen algo más o existen categorías de fundas específicas? | 17/10/2026 |
 | 3 | En la fabricación de fundas, ¿es normal que haya desperdicios o mermas? Si es así, ¿qué hacen actualmente con ese desperdicio? | 17/10/2026 |
